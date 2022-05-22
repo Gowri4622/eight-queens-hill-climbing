@@ -199,9 +199,13 @@ plt.show()
 ## OUTPUT:
 
 ![Screenshot_677](https://user-images.githubusercontent.com/75235455/169677649-3be23d1e-0faa-4d7a-a5f2-a07ff41850e1.png)
+---
 ![Screenshot_676](https://user-images.githubusercontent.com/75235455/169677656-2a4549c5-f05a-4d1d-b149-70fb6ca92759.png)
+---
 ![Screenshot_678](https://user-images.githubusercontent.com/75235455/169677659-8fce35eb-bdeb-40a3-aad6-e7b3c7d03cfc.png)
+---
 ![Screenshot_673](https://user-images.githubusercontent.com/75235455/169677669-0d5f5d4e-023e-45c8-b2f6-1fadc7f2d3c6.png)
+---
 ![Screenshot_674](https://user-images.githubusercontent.com/75235455/169677671-5a1ddeed-42e6-4261-98f9-d0fd760751b1.png)
 
 
